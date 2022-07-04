@@ -40,4 +40,6 @@ npm run build
 
 ## Estructura de los datos en firebase
 
-![alt text](https://i.ibb.co/r6dqg3p/5.jpg)
+<a href="https://ibb.co/zR6C1F2"><img src="https://i.ibb.co/swWchC1/5.jpg" alt="5" border="0" /></a>
+
+
